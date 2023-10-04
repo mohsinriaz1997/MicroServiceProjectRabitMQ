@@ -31,8 +31,8 @@ This project serves as a demonstration of building a microservices-based shoppin
 
 ## Technologies Used
 
-- .NET Core 3.1
-- ASP.NET Core 3.1
+- .NET Core 8.0
+- ASP.NET Core 8.0
 - MS SQL Server
 - RabbitMQ
 - Hangfire
@@ -60,7 +60,7 @@ Follow these steps to set up and run the project locally.
 
 ### Prerequisites
 
-- .NET Core 3.1 SDK
+- .NET Core 8.0 SDK
 - Visual Studio or Visual Studio Code
 - SQL Server
 - RabbitMQ
